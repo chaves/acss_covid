@@ -12,7 +12,7 @@
 * [Covid19_slides_2022-01-24.pdf](./files/Covid19_slides_2022-01-24.pdf)
 
 ## Raw database (with minimal cleaning)
-* [TBA](TBA) (password protected)  
+* [link](https://universitedauphine-my.sharepoint.com/:u:/g/personal/bruno_chavesferreira_dauphine_psl_eu/Ef5MCyk5pghHhAm8PKh5wacBrJK-k0Zg6MqdAfnDvB4LFg?e=dDB5Sc) (password protected)  
 
 ## Descriptive statistics
 * Accounts and tweets : [https://acss-covid.vercel.app/01_explore.html](https://acss-covid.vercel.app/01_explore.html)
