@@ -3,6 +3,10 @@
     <a href="https://acss-dig.psl.eu/"><img src="./files/logo_acss_psl.png" alt="logo" width="400" /></a>
 </p>
 
+<p align="center">
+    <a href="https://acss-covid.vercel.app/">https://acss-covid.vercel.app</a>
+</p>
+
 # Covid19 politics / media twitter database
 
 > This repository aims to make available the sources / programs needed to create the Covid19 politics / media twitter database.<br>
