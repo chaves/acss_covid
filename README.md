@@ -15,12 +15,13 @@
 * [link](https://universitedauphine-my.sharepoint.com/:u:/g/personal/bruno_chavesferreira_dauphine_psl_eu/Ef5MCyk5pghHhAm8PKh5wacBrJK-k0Zg6MqdAfnDvB4LFg?e=dDB5Sc) (password protected)  
 
 ## Descriptive statistics
-* Accounts and tweets : [https://acss-covid.vercel.app/01_explore.html](https://acss-covid.vercel.app/01_explore.html)
-* Trends : [https://acss-covid.vercel.app/02_trends.html](https://acss-covid.vercel.app/02_trends.html)
+* Accounts and tweets: [https://acss-covid.vercel.app/01_explore.html](https://acss-covid.vercel.app/01_explore.html)
+* Trends: [https://acss-covid.vercel.app/02_trends.html](https://acss-covid.vercel.app/02_trends.html)
 * Number of words : [https://acss-covid.vercel.app/03_nb_words.html](https://acss-covid.vercel.app/03_nb_words.html)
+* Tweets distribution by account type / country: [https://acss-covid.vercel.app/05_account_type_distribution](https://acss-covid.vercel.app/03_nb_words.html)
+* Politics repartition by categories (minister, ministry, party, party_leader): [politics_accounts.xlsx](./files/politics_accounts.xlsx)
 
 ## Other sources
 * Parliaments’ compositions and the parties’ leaders: [POLITICS_abir.pdf](./files/POLITICS_abir.pdf)
 * Matching with the parlgov database: [covid_twitter_politics_accounts_v4_Antoine.xlsx](./files/covid_twitter_politics_accounts_v4_Antoine.xlsx)
-* Politics repartition by categories (minister, ministry, party, party_leader): [politics_accounts.xlsx](./files/politics_accounts.xlsx)
 * The parlgov database: [https://www.parlgov.org/data-info/](https://www.parlgov.org/data-info/)
