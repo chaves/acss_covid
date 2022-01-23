@@ -1,0 +1,21 @@
+# Covid19 politics / media twitter database
+
+> This repository aims to make available the sources / programs needed to create the Covid19 politics / media twitter database.<br>
+> It is a project supported by the Applied Computational Social Sciences Data-Intensive Governance - PSL Institute [https://acss-dig.psl.eu/](https://acss-dig.psl.eu/).
+
+## Presentation slides
+* [Covid19_slides_2022-01-24.pdf](./files/Covid19_slides_2022-01-24.pdf)
+
+## Raw database (with minimal cleaning)
+* [TBA](TBA) (password protected)  
+
+## Descriptive statistics
+* Accounts and tweets : [https://acss-covid.vercel.app/01_explore.html](https://acss-covid.vercel.app/01_explore.html)
+* Trends : [https://acss-covid.vercel.app/02_trends.html](https://acss-covid.vercel.app/02_trends.html)
+* Number of words : [https://acss-covid.vercel.app/03_nb_words.html](https://acss-covid.vercel.app/03_nb_words.html)
+
+## Other sources
+* Parliaments’ compositions and the parties’ leaders: [POLITICS_abir.pdf](./files/POLITICS_abir.pdf)
+* Matching with the parlgov database: [covid_twitter_politics_accounts_v4_Antoine.xlsx](./files/covid_twitter_politics_accounts_v4_Antoine.xlsx)
+* Politics repartition by categories (minister, ministry, party, party_leader): [politics_accounts.xlsx](./files/politics_accounts.xlsx)
+* The parlgov database: [https://www.parlgov.org/data-info/](https://www.parlgov.org/data-info/)
