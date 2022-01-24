@@ -46,8 +46,12 @@ df = pd.read_pickle('file_name.pickle')
 install.packages("RSQLite")
 library(DBI)
 
-con <- dbConnect(drv=RSQLite::SQLite(), dbname="file_name.db") ## connect to the database
-tables <- dbListTables(con) # you will see the table tweets
+## connect to the database
+con <- dbConnect(drv=RSQLite::SQLite(), dbname="file_name.db")
 
-tweets_df <- dbGetQuery(conn=con, statement=paste("SELECT * FROM tweets", sep="")) # select the table tweets
+# list the tables available
+tables <- dbListTables(con)
+
+# select the table tweets
+tweets_df <- dbGetQuery(conn=con, statement=paste("SELECT * FROM tweets", sep=""))
 ```
