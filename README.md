@@ -34,16 +34,16 @@
 * Matching with the parlgov database: [covid_twitter_politics_accounts_v4_Antoine.xlsx](./files/covid_twitter_politics_accounts_v4_Antoine.xlsx)
 * The parlgov database: [https://www.parlgov.org/data-info/](https://www.parlgov.org/data-info/)
 
-## <a name="instructions"></a>Instructions to read the data
+## Instructions to read the data
 
 ### Python users to read the pickle file
-```{python}
+```python
 import pandas as pd
 df = pd.read_pickle('file_name.pickle')
 ```
 
 ### R users: read the SqLite table
-```{r}
+```r
 install.packages("RSQLite")
 library(DBI)
 
