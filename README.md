@@ -1,3 +1,4 @@
+<!-- title: index.html -->
 
 <p align="center">
     <a href="https://acss-dig.psl.eu/"><img src="./files/logo_acss_psl.png" alt="logo" width="400" /></a>
@@ -19,7 +20,7 @@
 * For Python users [pandas dataframe saved to a pickle object](https://universitedauphine-my.sharepoint.com/:u:/g/personal/bruno_chavesferreira_dauphine_psl_eu/Ef5MCyk5pghHhAm8PKh5wacBrJK-k0Zg6MqdAfnDvB4LFg?e=dDB5Sc)   
 * For others (e.g. R users) [SqLite database](https://universitedauphine-my.sharepoint.com/:u:/g/personal/bruno_chavesferreira_dauphine_psl_eu/ESe4HtKVK9pOoUOuxtvvqM4B6H40GauZhyyQ5NZT2WQU9g?e=k4WvKS)
 
-[Instructions for reading this data](#instructions).
+*Instructions for reading this data are in the last section of this document*.
 
 ## Descriptive statistics
 * Accounts and tweets: [https://acss-covid.vercel.app/01_explore.html](https://acss-covid.vercel.app/01_explore.html)
