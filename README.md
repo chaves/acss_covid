@@ -29,3 +29,15 @@
 * Parliaments’ compositions and the parties’ leaders: [POLITICS_abir.pdf](./files/POLITICS_abir.pdf)
 * Matching with the parlgov database: [covid_twitter_politics_accounts_v4_Antoine.xlsx](./files/covid_twitter_politics_accounts_v4_Antoine.xlsx)
 * The parlgov database: [https://www.parlgov.org/data-info/](https://www.parlgov.org/data-info/)
+
+## Instructions for R users to read the SqLite table
+
+```{r }
+install.packages("RSQLite")
+library(DBI)
+
+con <- dbConnect(drv=RSQLite::SQLite(), dbname="file_name.db") ## connect to the database
+tables <- dbListTables(con) # you will see the table tweets
+
+tweets_df <- dbGetQuery(conn=con, statement=paste("SELECT * FROM tweets", sep="")) # select the table tweets
+```
