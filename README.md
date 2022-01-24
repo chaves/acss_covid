@@ -36,7 +36,7 @@
 
 ## Instructions to read the data
 
-### Python users to read the pickle file
+### Python users: read the pickle file
 ```python
 import pandas as pd
 df = pd.read_pickle('file_name.pickle')
